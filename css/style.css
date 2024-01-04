@@ -1,0 +1,15 @@
+:root {
+	--color-primary: #053766;
+	--color-secondary: #53acff;
+	--color-Tertiery: #00b4d8;
+	--color-quaternary: #38b000;
+	--color-gray: #f3f9ff;
+	--color-light: #ffffff;
+}
+
+body {
+	line-height: 35px;
+	letter-spacing: default;
+	font-size: 18px;
+	font-weight: 400;
+}
